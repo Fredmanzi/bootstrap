@@ -1,0 +1,25 @@
+body{
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+.navbar-inverse{
+    background-color: black;
+    opacity: .8;
+    color:#fff;
+    margin-top: 12px;
+    margin-bottom:0px;
+}
+#carouselExampleIndicators{
+    margin-bottom: 32px;
+}
+.row{
+    margin: auto;
+}
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+h5{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 17px;
+}
